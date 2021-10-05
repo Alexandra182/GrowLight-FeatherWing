@@ -1,7 +1,7 @@
-# GrowLight-FeatherWing
+# GrowLight-FeatherWing 🌞
 
-A minimalist grow light that is compatible with the Adafruit Feather Huzzah dev board.
+🌱 A minimalist grow light that is compatible with the Adafruit Feather Huzzah dev board.
 
-Documentation: https://hackaday.io/project/177078-grow-light-feather-wing
+🌱 For more details check out [Hackster](https://hackaday.io/project/177078-grow-light-feather-wing).
 
 ![Grow Light](img.jpeg)
